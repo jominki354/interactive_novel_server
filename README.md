@@ -1,3 +1,5 @@
+O_o
+
 # interactive_novel_server
 
 Interactive Novel의 백엔드 서버 프로젝트입니다.
